@@ -11,7 +11,7 @@
 
 
 ## Skills 
-#### A skill I picked up while doing this assignment was problem decomposition,also known as breaking down task into smaller pieces. This helped to tackle down each part of the assignment little by little. I was able to explain everything a bit better without trying to tackle eveything at once.If I did tackle it all at once then I would stress myself out and get all confused, which I tried to aviod.I also tried to pay attention to details, I re-read my paragraphs and checked for spelling mistakes.I read each paragraph about more then twice and I still pray that I have no mistakes.These where my main two skills I picked up.  
+#### A skill I picked up while doing this assignment was problem decomposition,also known as breaking down task into smaller pieces. This helped to tackle down each part of the assignment little by little. I was able to explain everything a bit better without trying to tackle eveything at once.If I did tackle it all at once then I would stress myself out and get all confused, which I tried to aviod.I also tried to pay attention to details, I re-read my paragraphs and checked for spelling mistakes.I read each paragraph about more then twice and I still pray that I have no mistakes.These where my main two skills I picked up.   
 
 
 
