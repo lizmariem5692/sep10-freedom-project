@@ -3,7 +3,8 @@
 
 ## Content 
 
-#### The information and what I learned about Hospital Health Care was something very imporatnt and benifical to humans and their health. In [link](
+#### The information and what I learned about Hospital Health Care was something very imporatnt and benifical to humans and their health. In [website](https://builtin.com/healthcare-technology) I found information on IT tools and software design that helps in hospital technology. On how it benifits us and what it needes help with 
+
 
 
 
