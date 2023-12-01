@@ -3,28 +3,16 @@
 
 ## Content 
 
-#### The information and what I learned about Hospital Health Care was something very imporatnt and benifical to humans and their health. In this  [website](https://builtin.com/healthcare-technology) I found information on IT tools and software design that helps in hospital technology. On how it benifits us and what it needs inprovement with.Talks about how tech tools have had improvements in errors like diagnosis and diseases.How its benifical to staff and patients with health insurance and those undergoing surgery.This information is all positive information on hospital health care but there are some problems to the technology. The problems are found on this  [website](https://www.linkedin.com/pulse/top-5-technology-problems-healthcare-agilethought#:~:text=In%20Conclusion,infrastructure%2C%20and%20security%20and%20privacy) which explains the current tech problems.The problems in data,billing patients,security,and infrastructure can benifit a patients resultes. If the data isn't calculated right then that can influence the way a person can handle themselves. For example what if you have high sugar and the results say you have low sugar a person would find themselved adding more sugar to their bodies when they really need to lower that amount of sugar they consume.Now in this [website](https://hbr.org/2006/05/why-innovation-in-health-care-is-so-hard) it talkes more about the improvements and what is needed help in.The ideas on what can help tech tools and improve them, for example states Harvard Business Review:"And IT innovations that connect the many islands of information in the healthcare system can both vastly improve quality and lower costs , for example, keeping a patient’s various providers informed and thereby reducing errors of omission or commission.” A great problem talked about in this website as well as in the one before it, results and the incorrect information can really impact the health of a person. 
+#### The information and what I learned about Hospital Health Care was something very imporatnt and benifical to humans and their health. In this  [website](https://builtin.com/healthcare-technology) I found information on IT tools and software design that helps in hospital technology. On how it benifits us and what it needs inprovement with.Talks about how tech tools have had improvements in errors like diagnosis and diseases.How its benifical to staff and patients with health insurance and those undergoing surgery.This information is all positive information on hospital health care but there are some problems to the technology. The problems are found on this  [website](https://www.linkedin.com/pulse/top-5-technology-problems-healthcare-agilethought#:~:text=In%20Conclusion,infrastructure%2C%20and%20security%20and%20privacy) which explains the current tech problems.The problems in data,billing patients,security,and infrastructure can benifit a patients resultes. If the data isn't calculated right then that can influence the way a person can handle themselves. For example what if you have high sugar and the results say you have low sugar a person would find themselved adding more sugar to their bodies when they really need to lower that amount of sugar they consume.Now in this [website](https://hbr.org/2006/05/why-innovation-in-health-care-is-so-hard) it talkes more about the improvements and what is needed help in.The ideas on what can help tech tools and improve them, for example states Harvard Business Review:"And IT innovations that connect the many islands of information in the healthcare system can both vastly improve quality and lower costs , for example, keeping a patient’s various providers informed and thereby reducing errors of omission or commission.” A great problem talked about in this website as well as in the one before it, results and the incorrect information can really impact the health of a person. All these websites I found by searching up Hospital health and what it needes improvement with and I looked for the most reliable one, I looked for its important infromation and who wrote the website. 
 
 ## Content of Hardware 
-
-
-
-
-)
- 
- 
-
+#### The information of hardware is very important and beneficial. In this [website](https://www.healthtechzone.com/channels/medical-hardware/) it talkes about healthtech, and gives descriptions on the hardwares in hospital health care and its benefits on kids and adults.The Healthtech website is about medical hardware it's a channel based on the topic.The website itself also gives the latest articles on healthtech and health in general. Their articles go by date, when they were published. Will in this [website](https://www.unthinkable.co/blog/what-is-healthtech-and-why-does-it-matter-to-all-of-us/) it explains the benefits of healthtech.(how it is shaping health in general) How it improves qualities of knowing results and improving health.The years of healthtech and the amount of money contributed to healthtech.How it helps with people mentally and physically.The tracking of data, check ups dates, blood pressures, all of these reasons are improved because of healthtech, but that dosen't mean its all improved as it sounds. Healthtech might be beneficial but it still needs some work on how it gives off its feedback. 
 
 
 
 ## Engineering Design Process 
+#### In the process of my blog entry 2 I focused more on research,defining and brainstorming. Researching was perhaps the most important thing I did and the one that took the longest. Trying to find the right source was harder then I thougth especialy when It came to finding one on hardware and its problems, which I believe are many but for some reason it was hard to find a website that gave me healthtech hardware problems.Defining and brainstorming where pretty good from me because I wanted to brainstorm problems that I thought where happening to problems that really where. Defining the problem was like brainstorming, they where where working togther (which is so peppermint)I used both of them to get the problem down and ready to solve with the solution of researching. 
 
 
-
-## 
-
-
-
-[Previous](entry01.md) | [Next](entry03.md)
-
-[Home](../README.md)
+## Skills 
+#### Skills I picked up where consideration and organization. I took a lot of thought and consideration into what I was going to research and why it would back up the problem of hospital health care technology, I wanted the website to be right. I wanted it to make sense to my project and back up the situation I hoped to explain can be improved. Organization came with trying to get the notes down written and well. The notes had to be explained well so I could go back and see what information I had down. 
